@@ -1,0 +1,28 @@
+{
+    "trips": [
+        {
+            "title": "2 nights stay in venice",
+            "price": "$195",
+            "id": "1",
+            "loc": "europe"
+        },
+        {
+            "title": "2 nights stay in paris",
+            "price": "$140",
+            "id": "2",
+            "loc": "europe"
+        },
+        {
+            "title":"4 nights stay in DC",
+            "price":"$195",
+            "id": "3",
+            "loc": "america"
+        },
+        {
+            "title":"2 nights stay in NY",
+            "price":"$125",
+            "id": "4",
+            "loc": "america"
+        }
+    ]
+}
